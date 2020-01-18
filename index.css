@@ -1,0 +1,40 @@
+.table{
+    position: absolute;
+    border: 2px solid;
+    width: 90px;
+    height: 50px;
+    top: 30%;
+    left:5%;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px/10px;
+}
+
+#btn-table:before{
+    content: "Fill Table";
+}
+
+.dialog{
+    position: absolute;
+    border: 2px solid;
+    width: 90px;
+    height: 50px;
+    left:5%;
+    top: 10%;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 10px/10px;
+}
+
+#btn-dialog:before{
+    content: "Fill Dialog";
+}
+
+.container{
+    position: absolute;
+    border: 2px solid;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    top: 10s%;
+}
